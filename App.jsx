@@ -360,7 +360,7 @@ const nav = [
   ["forecast", "forecast", ChartNoAxesCombined],
   ["simulator", "simulator", SlidersHorizontal],
   ["coach", "coach", Sparkles],
-  ["goals", "goals", PiggyBank],
+  ["goals", "goals", Target],
   ["calendar", "calendar", CalendarDays],
   ["settings", "settings", Settings],
 ];
