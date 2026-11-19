@@ -497,7 +497,7 @@ function App() {
         <img src={qistakLogo} alt="QISTAK" className="brand-mark" />
 
         <div className="brand-info">
-          <b>QISTAK</b>
+         <b>{t.app}</b>
           <small>{t.tagline}</small>
         </div>
 
